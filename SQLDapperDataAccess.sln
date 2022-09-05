@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLDapperDataAccess", "SQLDapperDataAccess\SQLDapperDataAccess.csproj", "{97BE5940-95E7-42C9-AF01-4F526F7E4A83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormUI", "SQLDapperDataAccess\FormUI.csproj", "{97BE5940-95E7-42C9-AF01-4F526F7E4A83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FB7AC6E3-39E6-4850-85A1-166BDB125D6C}"
+	ProjectSection(SolutionItems) = preProject
+		NOTE.txt = NOTE.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

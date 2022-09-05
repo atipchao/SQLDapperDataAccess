@@ -1,0 +1,8 @@
+
+//
+//
+1. Create a Form project - this is our UI project
+2. Create Models folder, and place all your recore-layout classes (table layout) in the folder
+3. Create a Helpler class, and "CnnValue" property to retrive Database connection from your config file
+4. Go back to Config file, create <ConnectionString> section.
+
